@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/mapbox/strxml.svg)](https://travis-ci.org/mapbox/strxml)
 
-# strxml
+# strxml-updated
+
+This is merely a newly packaged version of strxml that can be `npm install`ed normally.
 
 Create xml with strings and concatenation.
 

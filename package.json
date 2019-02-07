@@ -1,5 +1,5 @@
 {
-  "name": "strxml",
+  "name": "strxml-updated",
   "version": "1.0.0",
   "description": "create xml with functions and strings",
   "main": "index.js",
@@ -19,9 +19,9 @@
   "author": "Tom MacWright",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mapbox/strxml/issues"
+    "url": "https://github.com/ericsvendsen/strxml/issues"
   },
-  "homepage": "https://github.com/mapbox/strxml",
+  "homepage": "https://github.com/ericsvendsen/strxml",
   "dependencies": {
     "xml-escape": "1.1.0"
   },
